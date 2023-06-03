@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Javascript projects<br>👯 I’m looking to collaborate on Stock Market Finance Project<br>🌱 I’m currently learning Web Developement<br>💬 Ask me about anything<br>⚡ Fun fact I am the onlt good web developer on Fiverr
+🔭 I’m currently working on Javascript projects<br>👯 I’m looking to collaborate on Stock Market Finance Project<br>🌱 I’m currently learning Web Developement<br>💬 Ask me about anything<br>⚡ Fun fact I am the only good web developer on Fiverr
 
 
 ## 🌐 Socials:
