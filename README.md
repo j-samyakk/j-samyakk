@@ -40,7 +40,7 @@ Let's shape the future together, one commit at a time! 🚀
 [![My Development](https://skillicons.dev/icons?i=git,bootstrap,tailwindcss,jquery)](https://github.com/j-samyakk)
 
 ### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,figma,postman)](https://github.com/ArchitJ6)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,figma,postman)](https://github.com/j-samyakk)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=j-samyakk&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)<br/>
