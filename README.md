@@ -15,7 +15,6 @@
 - 📫 How to reach me **Use any social media (Profile Given Below)**
 
 - ⚡ Fun fact **I am good**
-<img align="center" width="300" alt="Coder" src='coder.gif'>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=architj6&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
 
