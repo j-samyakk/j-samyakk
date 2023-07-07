@@ -58,7 +58,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=j-samyakk&theme=radical&hide_border=false&border_radius=10)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=j-samyakk&theme=radical&hide_border=false&include_all_commits=true&border_radius=10&count_private=true&layout=compact)
 
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=j_samyakk&theme=nightowl&response=true&border=false&time=true&icon=default"/></a>
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=j_samyakk&theme=dracula&icon=default&time=true&response=true&border=true"/></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=j-samyakk&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
