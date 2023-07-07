@@ -1,8 +1,20 @@
 # 💫 Samyak Jain
 <h1 align='center'>Hi, I'm Samyak Jain ✨</h1>
-Welcome to my compelling GitHub profile! I'm an enthusiastic web developer constantly pushing the boundaries of technology to create captivating online experiences. Within my repositories, you'll find an impressive collection of projects focused exclusively on web development. From responsive designs to interactive interfaces and seamless user experiences, I strive to create websites that leave a lasting impression. I'm a firm believer in the power of collaboration, so I'm always eager to connect with fellow developers who share my passion for the web. Let's join forces and build something remarkable together!
+<p align="left"> <a href="https://twitter.com/j_samyakk" target="blank"><img src="https://img.shields.io/twitter/follow/j_samyakk?logo=twitter&style=for-the-badge" alt="j_samyakk" /></a> </p>
 
-Let's shape the future together, one commit at a time! 🚀
+- 🔭 I’m currently working on **E-commerce Webiste**
+
+- 🌱 I’m currently learning **Javascript & its Libaries**
+
+- 🤝 I’m looking for help with **add to cart functionality**
+
+- 📝 I regularly write Tweets on [https://twitter.com/j_samyakk](https://twitter.com/j_samyakk)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **Use any social media (Profile Given Below)**
+
+- ⚡ Fun fact **I am good**
 <img align="right" width="400" alt="Coder" src='coder.gif'>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=architj6&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
